@@ -1,0 +1,17 @@
+D:\Baze\Rocket League\Rocket League\bin\Debug\net6.0-windows\Rocket League.exe
+D:\Baze\Rocket League\Rocket League\bin\Debug\net6.0-windows\Rocket League.deps.json
+D:\Baze\Rocket League\Rocket League\bin\Debug\net6.0-windows\Rocket League.runtimeconfig.json
+D:\Baze\Rocket League\Rocket League\bin\Debug\net6.0-windows\Rocket League.dll
+D:\Baze\Rocket League\Rocket League\bin\Debug\net6.0-windows\Rocket League.pdb
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.csproj.AssemblyReference.cache
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket_League.RocketLeague.resources
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.csproj.GenerateResource.cache
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.AssemblyInfoInputs.cache
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.AssemblyInfo.cs
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.csproj.CoreCompileInputs.cache
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.dll
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\refint\Rocket League.dll
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.pdb
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\Rocket League.genruntimeconfig.cache
+D:\Baze\Rocket League\Rocket League\obj\Debug\net6.0-windows\ref\Rocket League.dll
